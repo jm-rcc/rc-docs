@@ -1,9 +1,11 @@
-To make a form accessible to users
+# To make a form accessible to users
+
  ----
 
 Go to your project. Go to User Rights.
 
  ----
+ 
 |  ![](addform_image1.png) |
 | ---- | 
  ----
